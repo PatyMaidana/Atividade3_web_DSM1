@@ -43,11 +43,11 @@ npm install
 
 Crie um arquivo .env na raiz do projeto com as credenciais do banco:
 
-DB_HOST=seu_host
-DB_USER=seu_usuario
-DB_PASSWORD=sua_senha
-DB_NAME=seu_banco
-DB_PORT=5432
+*DB_HOST=seu_host
+ *DB_USER=seu_usuario
+ *DB_PASSWORD=sua_senha
+ *DB_NAME=seu_banco
+ *DB_PORT=5432
 
 5. Execute a aplicação
 npm start
